@@ -1,3 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Hide the heading anchor link icon */
+a.internal {
+    display: none !important;
+}
